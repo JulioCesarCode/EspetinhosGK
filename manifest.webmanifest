@@ -1,0 +1,17 @@
+{
+  "name": "Espetinhos GK — Controle de Mesas",
+  "short_name": "Espetinhos GK",
+  "description": "Controle offline de pedidos e mesas do Espetinhos GK.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171613",
+  "theme_color": "#171613",
+  "icons": [
+    {
+      "src": "./assets/espetinhos-gk-logo-oficial.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
